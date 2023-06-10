@@ -1,0 +1,20 @@
+<?php
+return [
+    'products' => 'products',
+    'coupons' => 'coupons',
+    'users' => 'users',
+    'roles' => 'roles',
+    'popular_qs' => 'popular qestion',
+    'surprise_advantage' => 'surprise advantage',
+    'gallary' => 'gallary',
+    'testominials' => 'testominials',
+    'contacts_message' => 'contacts message',
+    'settings' => 'settings',
+    'general_setting' => 'General Settings',
+    'info_setting' => ' info setting ',
+    'links_setting' => 'social media sites',
+    'view_all' => 'view all ',
+    'new_add' => 'new add ',
+    'taxes' => 'taxes',
+    'headers'=>'headers',
+];
